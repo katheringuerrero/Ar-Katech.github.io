@@ -18,5 +18,5 @@ Página preparada para GitHub Pages. El archivo principal es `index.html`.
 
 ## Contacto
 
-WhatsApp: +57 313 879 9315
+WhatsApp: +57 3142895351
 Bogotá, Colombia · Atención presencial y remota
